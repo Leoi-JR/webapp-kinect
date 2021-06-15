@@ -1,0 +1,11 @@
+{
+  "initSetting": {
+    "accessToken": "pk.eyJ1IjoibHYtanIiLCJhIjoiY2sxMjUzOXNpMGxwcTNobzV4czhuODAyZiJ9.-Tj8mEhZ3gh07sOwtVwGgA",
+    "style": "mapbox://styles/mapbox/streets-v11",
+    "lng": 113.9320 ,
+    "lat": 22.5358,
+    "zoom": 15.60,
+    "width": 1600,
+    "height": 1200
+  }
+}

@@ -1,0 +1,15 @@
+export const INITMAP = 'initmap';
+export const SET_JSON_CONFIG = 'set_json_config';
+export const UPDATE_GEO_DATA = 'update_geo_data';
+export const SHOW_BUTTON = 'show_button';
+export const REMOVE_BUTTON = 'remove_button';
+export const CHANGE_XY = 'change_xy';
+export const ORIGIN_XY = 'origin_xy';
+export const UPDATE_DIJKSTRA = 'update_dijkstra';
+export const GET_BUILD = 'get_build';
+export const UPDATE_BUILD = 'update_build';
+export const CHANGE_PANEL = 'change_panel';
+export const UPDATE_EDGE = 'update_edge';
+export const UPDATE_SOURCE = 'updata_source';
+export const UPDATE_SELECTED_BUILD = 'update_selected_build';
+export const UPDATE_SELECTED_DAOJU = 'update_selected_daoju';

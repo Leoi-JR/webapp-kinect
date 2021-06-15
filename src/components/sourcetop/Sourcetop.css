@@ -1,0 +1,19 @@
+.myrow {
+    background-color: rgba(0,0,0,0);
+}
+#tablesize {
+    position: relative;
+    width: 60%;
+    left: 20%
+}
+#sourcepie {
+    position: relative;
+    width: 60%;
+    left: 20%;
+}
+.selectedRow {
+    background-color: aquamarine;
+}
+.no-hover tr:hover td {
+    background: transparent !important;
+}
